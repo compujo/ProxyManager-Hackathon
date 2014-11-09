@@ -1,0 +1,16 @@
+207.91.10.234:8080; 0.4; 22177; anonymous; United States (IL, Moline); 
+98.103.146.102:80; 0; 0; anonymous; USA (OH, Cleveland); 
+66.162.208.10:3128; 0; 0; anonymous; US (TX, Dallas); 
+198.2.202.43:80; 0; 0; anonymous; US (CA, San Jose); 
+184.72.93.7:80; 0; 0; anonymous; US (VA, Ashburn); 
+198.2.202.58:80; 0; 0; anonymous proxy; US (CA, San Jose); 
+208.109.154.150:80; 0.43; 65535; anonymous; US (AZ, Scottsdale); 
+54.66.167.153:80; 0; 0; anonymous proxy; USA (NJ, Woodbridge); 
+54.176.115.12:80; 0; 0; anonymous proxy; US (WA, Seattle); 
+54.187.130.176:80; 0; 0; anonymous proxy; USA (WA, Seattle); 
+198.2.202.37:80; 0; 0; anonymous proxy; United States (CA, San Jose); 
+198.23.150.200:3128; 0; 0; anonymous proxy; USA (NY, Buffalo); 
+198.98.98.84:80; 0; 0; anonymous proxy; US (NV, Henderson); 
+72.232.150.225:80; 10.43; 622; anonymous proxy; United States (TX, Plano); 
+64.14.41.42:80; 0.38; 469; anonymous proxy; US (MO, Chesterfield); 
+198.2.202.38:80; 0; 0; anonymous proxy; USA (CA, San Jose); 

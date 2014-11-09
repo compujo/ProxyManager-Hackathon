@@ -1,0 +1,834 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<!-- *********************************************************************** 
+     * SERVICE INFO: 
+     *********************************************************************** -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>The United States Mint</title>
+	<link rel="P3Pv1" href="/w3c/p3p.xml">
+	<meta http-equiv="imagetoolbar" content="no">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="icon" href="/favicon.ico">
+
+	<link rel="alternate" type="application/rss+xml" title="Press Releases and Public Statements" href="/rss.xml">
+	<link rel="alternate" type="application/rss+xml" title="Product Information Updates" href="/rssProdInfo.xml">
+
+	<link href="/styles/x_css_mint.css" rel="stylesheet" type="text/css">
+	<link href="/styles/x_baseline.css" rel="stylesheet" type="text/css">
+	<link href="/styles/x_pageHeader.css" rel="stylesheet" type="text/css">
+	<link href="/styles/x_pageLeftNav.css" rel="stylesheet" type="text/css">
+	<link href="/styles/x_pageFooter.css" rel="stylesheet" type="text/css"> 
+</head>
+<body>
+	<a	href="#skipNavigation" title="skip navigation"
+		id="skipNav">skip navigation</a>
+	<div id="containerA">
+
+	
+    <script language="JavaScript" type="text/javascript" src="/scripts/x_siteSearch.js"></script>
+    
+    
+    
+    <div id="topNavContainer">
+        <div id="topNav">
+            <div id="agencyLogo">
+                <div> 
+                    <a href="/" title="United States Mint" accesskey="B">
+                    <img src="/images/shell/360x70_USMintLogo.png" alt="United States Mint" width="360" height="70"></a>
+                   
+                </div>
+            </div>
+            <div id="topNavRight">
+                <div id="topNavRightTop">
+                    <a class="hidden" href="#main" accesskey="C">Skip to content</a>
+                    
+                        <div class="menu-utility-links">
+                            <ul>
+                            <li class="first"><a href="https://catalog.usmint.gov/email-signup" title="E-mail Signup">E-mail Signup</a></li> 
+                           <div class="divider"></div> 
+                            <li><a href="http://catalog.usmint.gov/on/demandware.store/Sites-USM-Site/default/CustomerService-Show" title="Customer Service">Customer Service</a></li>
+                            <div class="divider"></div> 
+                            <li><a href="https://catalog.usmint.gov/track-order" title="Track Order">Track Order</a></li>
+                            <div class="divider"></div>
+                            <li><a title="Sign In" href="https://catalog.usmint.gov/account-login" class="user-login">Sign In </a></li>
+                            <div class="divider"></div>
+                            <li><a href="https://catalog.usmint.gov/on/demandware.store/Sites-USM-Site/default/Account-StartRegister" title="Register">Register</a></li>
+                            </ul>
+                        </div>
+                    
+                </div>
+                <div id="topNavRightAd">
+                    <div id="topNavRightAdContent">
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+<div id="navigation" role="navigation">
+
+		<nav class="clearfix">
+		<a class="visually-hidden navigation-header" title="Open/Collapse"><span class="visually-hidden">Open/Collapse</span></a>
+		<!--  category navigation -->
+		
+        <div id="menu-container" class="menu-container">
+            <ul class="menu-category level-1 clearfix">
+            	
+                    <li class="level-1-li active">
+                
+				
+                    <a href="http://catalog.usmint.gov" class="level-1" title="Shop">
+                        Shop
+                    </a>
+
+					<div class="arrow-l1"></div>
+                    
+					<div class="level-2-menu">
+                        <div class="menu-wrapper">
+                            <ul class="level-2">
+		
+								
+                                <li class="featured">
+                                    <a title="Featured" href="http://catalog.usmint.gov/shop/featured/" class="level-2">
+                                        Featured
+                                    </a>
+            
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                                            <li>
+                                                <a title="Whats New" href="http://catalog.usmint.gov/featured/whats-new/">
+                                                    Whats New
+                                                </a>
+                                            </li>
+                    
+                                            <li>
+                                                <a title="Best Sellers" href="http://catalog.usmint.gov/featured/best-sellers/">
+                                                    Best Sellers
+                                                </a>
+                                            </li>
+                    
+                                            
+                    
+                                            <li>
+                                                <a title="Gift Certificates" href="http://catalog.usmint.gov/buy-us-mint-gift-certificate-vmgiftcert.html">
+                                                    Gift Certificates
+                                                </a>
+                                            </li>
+                    
+                                            <li>
+                                                <a title="Upcoming Products" href="http://catalog.usmint.gov/product-schedule/">
+                                                    Upcoming Products
+                                                </a>
+                                            </li>
+                                        </ul>	
+                
+                                        <div class="custom"><p>
+                                        	
+                                            <img src="/images/shell/USM-Dropdown_Images_0006_featured.jpg" style="width: 145px; height: 200px;" title="Examples of featured products." alt="Examples of featured products.">
+                                            </p></div>
+                                    </div>		
+        
+                                </li>
+		
+								
+                                <li class="coins">
+                                    <a title="Coins" href="http://catalog.usmint.gov/shop/coins/" class="level-2">
+                                        Coins
+                                    </a>
+
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                                            <li>
+                                                <a title="Proof Sets" href="http://catalog.usmint.gov/coins/proof-sets/">
+                                                    Proof Sets
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Gold Coins" href="http://catalog.usmint.gov/coins/gold-coins/">
+                                                    Gold Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Silver Coins" href="http://catalog.usmint.gov/coins/silver-coins/">
+                                                    Silver Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Commemoratives" href="http://catalog.usmint.gov/coins/commemoratives/">
+                                                    Commemoratives
+                                                </a>
+                                            </li>
+                                            
+                                            <li>
+                                                <a title=" Other Coins" href="http://catalog.usmint.gov/coins/other-coins/">
+                                                    Other Coins
+                                                </a>
+                                            </li>
+                                        </ul>	
+                                        
+                                        <div class="custom"><p><img alt="Examples of coin products." title="Examples of coin products." src="/images/shell/USM-Dropdown_Images_0005_coins.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+                                </li>
+        
+								
+                                <li class="coin-programs">
+                                    <a title="Coin Programs" href="http://catalog.usmint.gov/shop/coin-programs/" class="level-2">
+                                        Coin Programs
+                                    </a>
+            
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                
+                                            <li>
+                                                <a title="Native American $1 Coins" href="http://catalog.usmint.gov/coin-programs/native-american-1-coins/">
+                                                    Native American $1 Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Presidential $1 Coins" href="http://catalog.usmint.gov/coin-programs/presidential-1-coins/">
+                                                    Presidential $1 Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="American Buffalo Coins" href="http://catalog.usmint.gov/coin-programs/american-buffalo-coins/">
+                                                    American Buffalo Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="America The Beautiful Quarters" href="http://catalog.usmint.gov/coin-programs/america-the-beautiful-quarters/">
+                                                    America The Beautiful Quarters
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Kennedy Half Dollars" href="http://catalog.usmint.gov/coin-programs/kennedy-half-dollars/">
+                                                    Kennedy Half Dollars
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Commemorative Coins" href="http://catalog.usmint.gov/coin-programs/commemorative-coins/">
+                                                    Commemorative Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="American Eagle Coins" href="http://catalog.usmint.gov/coin-programs/american-eagle-coins/">
+                                                    American Eagle Coins
+                                                </a>
+                                            </li>
+                        
+                                        </ul>	
+                                        
+                                        <div class="custom"><p><img alt="Examples of coin program products." title="Examples of coin program products." src="/images/shell/USM-Dropdown_Images_0004_coin-programs.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+                                    
+                                </li>
+
+								
+                                <li class="medals">            
+                                    <a title="Medals" href="http://catalog.usmint.gov/shop/medals/" class="level-2">
+                                        Medals
+                                    </a>
+            
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                                            <li>
+                                                <a title="Presidential" href="http://catalog.usmint.gov/medals/presidential/">
+                                                    Presidential
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="First Spouse" href="http://catalog.usmint.gov/medals/first-spouse/">
+                                                    First Spouse
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Bicentennial and Centennial" href="http://catalog.usmint.gov/medals/bicentennial-and-centennial/">
+                                                    Bicentennial and Centennial
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Historical Events" href="http://catalog.usmint.gov/medals/historical-events/">
+                                                    Historical Events
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Humanitarian and Cultural" href="http://catalog.usmint.gov/medals/humanitarian-and-cultural/">
+                                                    Humanitarian and Cultural
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Military" href="http://catalog.usmint.gov/medals/military/">
+                                                    Military
+                                                </a>
+                                            </li>
+                        
+                                        </ul>	
+                                        
+                                        <div class="custom"><p><img alt="Examples of medal products." title="Examples of medal products." src="/images/shell/USM-Dropdown_Images_0003_medals.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+                                    
+                                </li>
+
+    
+								
+                                <li class="product-enrollments">
+                                    <a title="Product Enrollments" href="http://catalog.usmint.gov/shop/product-enrollments/" class="level-2">
+                                        Product Enrollments
+                                    </a>
+            
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                
+                                            <li>				
+                                                <a title="America The Beautiful Quarters" href="http://catalog.usmint.gov/product-enrollments/america-the-beautiful-quarters/">
+                                                    America The Beautiful Quarters
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Native American $1 Coins" href="http://catalog.usmint.gov/product-enrollments/native-american-1-coins/">
+                                                    Native American $1 Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Presidential $1 Coins" href="http://catalog.usmint.gov/product-enrollments/presidential-1-coins/">
+                                                    Presidential $1 Coins
+                                                </a>
+                                            </li>
+                                            
+                                            <li>
+                                                <a title="First Spouse Bronze Medals" href="http://catalog.usmint.gov/product-enrollments/first-spouse-bronze-medals/">
+                                                    First Spouse Bronze Medals
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Uncirculated Coins" href="http://catalog.usmint.gov/product-enrollments/uncirculated-coins/">
+                                                    Uncirculated Coins
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Kennedy Half Dollars" href="http://catalog.usmint.gov/product-enrollments/kennedy-half-dollars/">
+                                                    Kennedy Half Dollars
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Annual Mint Sets" href="http://catalog.usmint.gov/product-enrollments/annual-mint-sets/">
+                                                    Annual Mint Sets
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="American Eagles" href="http://catalog.usmint.gov/product-enrollments/american-eagle-coins/">
+                                                    American Eagles
+                                                </a>
+                                            </li>
+                        
+                                        </ul>	
+                                        <div class="custom"><p><img alt="Examples of enrollment products." title="Examples of enrollment products." src="/images/shell/USM-Dropdown-ProductEnroll.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+            
+                                </li>
+                                
+								
+                                <li class="storage-display">
+                                    <a title="Storage and Display" href="http://catalog.usmint.gov/shop/storage-and-display/" class="level-2">
+                                        Storage and Display
+                                    </a>
+                                    
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                
+                                            <li>
+                                                <a title="Coin Albums" href="http://catalog.usmint.gov/storage-and-display/coin-albums/">
+                                                    Coin Albums
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Collector&rsquo;s Boxes" href="http://catalog.usmint.gov/storage-display/collectors-boxes/">
+                                                    Collector&rsquo;s Boxes
+                                                </a>
+                                            </li>
+                        
+                                            <li>		
+                                                <a title="Other" href="http://catalog.usmint.gov/storage-and-display/other/">
+                                                    Other
+                                                </a>
+                                            </li>
+                        
+                                        </ul>	
+                                        <div class="custom"><p><img alt="Examples of storage and display products." title="Examples of storage and display products." src="/images/shell/USM-Dropdown_Images_0002_storage.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+                                    
+                                </li>
+    
+                                
+                                <li class="shop-by-li"><div class="shop-by">Shop by:</div></li>
+                                <li class="gift-ideas">
+                                    <a title="Gift Ideas" href="http://catalog.usmint.gov/shop/gift-ideas/" class="level-2">
+                                        Gift Ideas
+                                    </a>
+                
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                                            <li>
+                                                <a title="Birthdays" href="http://catalog.usmint.gov/gift-ideas/birthdays/">
+                                                    Birthdays
+                                                </a>
+                                            </li>
+                            
+                                            <li>		
+                                                <a title="Holidays" href="http://catalog.usmint.gov/gift-ideas/holidays/">
+                                                    Holidays
+                                                </a>
+                                            </li>
+                            
+                                            <li>		
+                                                <a title="Newborns" href="http://catalog.usmint.gov/gift-ideas/newborns/">
+                                                    Newborns
+                                                </a>
+                                            </li>
+                            
+                                            <li>		
+                                                <a title="Graduations" href="http://catalog.usmint.gov/gift-ideas/graduations/">
+                                                    Graduations
+                                                </a>
+                                            </li>	
+                                            
+                                            <li>
+                                            	<a title="Gift Certificates" href="http://catalog.usmint.gov/buy-us-mint-gift-certificate-vmgiftcert.html">Gift Certificates
+                                                </a>
+                                            </li>	
+                                        </ul>	
+                                        
+                                        <div class="custom"><p><img alt="Examples of gift ideas." title="Examples of gift ideas." src="/images/shell/USM-Dropdown_Images_0001_gift.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+                                
+                                </li>
+                                
+											
+                                <li class="interest">
+                                    <a title="Interests" href="http://catalog.usmint.gov/shop/interests/" class="level-2">
+                                        Interests
+                                    </a>
+
+                                    <div class="arrow"></div>
+                                    <div class="level-3-menu">
+                                        <ul class="level-3">
+                                            <li>
+                                                <a title="American History" href="http://catalog.usmint.gov/interests/american-history/">
+                                                    American History
+                                                </a>
+                                            </li>
+                    
+                                            <li>			
+                                                <a title="Teaching and Education" href="http://catalog.usmint.gov/interests/teaching-and-education/">
+                                                    Teaching and Education
+                                                </a>
+                                            </li>
+                        
+                                            <li>
+                                                <a title="Geography" href="http://catalog.usmint.gov/interests/geography/">
+                                                    Geography
+                                                </a>
+                                            </li>
+                                            
+                                            <li><a href="http://catalog.usmint.gov/bureau-of-engraving.html" title="Paper Currency (Bureau of Engraving &amp; Printing)">Paper Currency (Bureau of Engraving &amp; Printing)</a></li>
+        
+                                        </ul>	
+                                        
+                                        <div class="custom"><p><img alt="Examples of products based on interests." title="Examples of products based on interests." src="/images/shell/USM-Dropdown_Images_0000_interest.jpg" style="width: 145px; height: 200px;"></p></div>
+                                    </div>		
+                                </li>
+                            </ul>
+
+                        <div class="custom"></div>
+                        
+                    </div>	
+                            
+                    </div>
+
+				</li>
+			
+            	
+                <li class="level-1-li">
+                    <a href="http://catalog.usmint.gov/product-schedule/" class="level-1" title="Product Schedule">
+                        Product Schedule
+                    </a>
+                    
+                </li>
+			
+                <li class="level-1-li">
+                    <a href="http://catalog.usmint.gov/root/enrollment.html" class="level-1" title="Enrollments">
+                        Enrollments
+                    </a>
+                </li>
+			
+				
+                    <li class="level-1-li"><a class="level-1" href="/education/?action=learn" title="Learn">Learn</a></li>
+                
+                	<li class="level-1-li"><a class="level-1" href="/pressroom/" title="Newsroom">Newsroom</a></li>
+                
+               	 	<li class="level-1-li"><a class="level-1" href="/about_the_mint/" title="About">About</a></li>
+                
+            </ul>
+       	</div>
+
+		<div class="search-button"></div><div class="search-container">
+			<div class="header-search">
+
+
+               
+               <form id="mainSearchForm" name="mainSearchForm" >
+   
+                    <fieldset>
+                    	<input type="hidden" name="affiliate" value="usmint.gov">
+				   	 	<input type="hidden" name="formFocused" id="formFocused" value="0">
+              
+                        <legend class="visually-hidden">Search Catalog</legend>
+                        <label class="visually-hidden" for="criteria">Search</label>
+                        <div id="searchBox">
+                        <input name="query" id="criteria" onFocus="searchboxFocus()" type="text" value="" placeholder="SEARCH" title="Enter search word(s) and press the Enter key." autocomplete="off" onkeypress="showChoices(event, this)" class="valid">
+                       
+                        <input class="search-clear button-text" type="reset" value="Clear the Form">
+                        
+                        <div class="container">
+            				
+                            <a href="#" id="trigger"></a>
+                            
+                            <div id="drop">
+                                <a onClick="mainSearchSubmitBtn('st-2');" href="javascript: void(0); " id="info">usmint.gov</a>
+                                <a onClick="commerceSearch();"  href="javascript: void(0); " id="prod">products</a>
+                            </div>
+                            
+                        </div>	
+                        
+                        </div>
+                    </fieldset>
+                    
+                </form>
+			</div>
+		</div>
+		
+		</nav>
+
+	</div><!-- /navigation -->
+        
+        </div>
+    </div>
+
+		<div id="containerB">
+
+
+
+<div class="left-navigation">
+	
+    <ul class="leftnav">
+    
+	
+	</ul>
+</div>
+
+			<div id="skipNavigation"></div>
+			<div id="containerC">				
+<div class="header">Page Not Found</div>
+			<p>
+				We're sorry. The page you requested cannot be found. It may have been moved or deleted.
+			</p>
+            <p>
+				To find the information you are looking for, please try any of the following:
+                <ul>
+					<li style="margin-bottom:12px;">Use our <a href="/websiteInfo/?action=siteMap">Site Map</a> to find the main sections and sub-sections of the site.</li>
+                    <li style="margin-bottom:12px;">Consult our <a href="http://answers.usmint.gov/">Frequently Asked Questions.</a></li>
+                    <li style="margin-bottom:12px;">Visit our <a href="/customerservice/">Customer Service page.</a></li>
+                    <li style="margin-bottom:12px;">
+                    	Search by keyword(s). 
+<div>
+	<form id="mainSearchForm1" name="mainSearchForm1"
+		method="get" action="http://search.usa.gov/search" 
+		onSubmit='return mainSearchSubmit1("st-2")' style="border:0; height:19px; margin:0; padding:0; position: relative; right:0; top:8px;">
+        
+        <input type="hidden" name="affiliate" value="usmint.gov">
+        
+        
+        
+        <input
+            name="query" id="criteria1"
+            onFocus="searchboxFocus1()" onBlur="searchboxBlur1()"
+            type="text" value="Search" title="Enter search word(s) and press the Enter key." style="border:1; color:#000; height:19px; margin:0; padding:1px 3px 1px 2px;
+	padding:0 3px 0 2px; width:150px; position: relative; top:0; ">
+        <a href='javascript:mainSearchSubmitBtn1("st-2")'>
+        <img src="/images/index/arrow.jpg" alt="searcharrow" title="Search" id="searcharrow"></a>
+
+        
+
+		<input type="hidden" name="formFocused1" id="formFocused1">
+        
+	</form>
+    </div>
+                    </li>
+ 				</ul><br>
+
+				Thank you for your interest in the United States Mint.
+			</p>
+
+			</div>								
+			<div class="clearFloats"></div>
+		</div>
+
+  <div class="footer-wrap">
+    <div id="footer" role="contentinfo">
+        <div class="email-social">
+            <div class="social">
+              <h3 style="margin:0 0 0 90px; padding-top:20px;font-family:Proxima Nova Semibold, sans-serif;">1-800-USA-MINT</h3>
+              <ul>
+                <li class="rss displaynone"><a href="/pressroom/?action=rssHelp" target="_self" title="RSS">RSS</a></li>
+                <li class="facebook"><a href="/xLink/?xLink=https://www.facebook.com/UnitedStatesMint" target="_blank" title="Facebook">Facebook</a></li>
+                <li class="twitter"><a href="/xLink/?xLink=https://twitter.com/usmint" target="_blank" title="Twitter">Twitter</a></li>
+                <li class="pinterest"><a href="/xLink/?xLink=http://www.pinterest.com/usmint/" target="_blank" title="Pinterest">Pinterest</a></li>
+                <li class="youtube"><a href="/xLink/?xLink=youtube.com/user/USMINT" target="_blank" title="YouTube">YouTube</a></li>
+              </ul>			  
+            </div>
+            <div class="email-signup" style="margin:0 0 0 0; padding:0 0 0 0;display:inline-block;">
+              <p class="signup-label" style="font-family:Proxima Nova Semibold, sans-serif;">Sign up for Email updates and news</p>
+              <div class="email-error"></div>
+              <div class="email-success" style="display:none;">
+                <p>Thank you for signing up with United States Mint!</p>
+              </div>
+              <div class="esformfooter" id="esformfooter">
+                <form action="https://catalog.usmint.gov/email-signup" method="post" id="email-alert-signup-footer" novalidate="novalidate">
+                  <label for="es-email-address-footer" style="font-family:Proxima Nova Semibold">E-mail Signup</label>
+                     <input type="email" id="es-email-address-footer" name="signupaddress" class="input-text email-input form-to-validate errormessageinputvalidator" placeholder="Enter your Email address" value="" errorcontainer="esEmailInfoFooter" emptyerror="null" error="Please enter a valid Email Address" expression="email" style="width: 230px;
+height: 30px;
+border-radius: 5px 0 0 5px;
+padding: 0 0 0 10px;
+margin:0 0 0 0;
+border: 1px solid #CCC;
+font-size: 14px;
+font-family:sans-serif; vertical-align:central;">
+          <input type="hidden" name="emailsource" value="Email Signup - Footer"> 
+                  <input type="submit" name="Subscribe" alt="Subscribe" id="es-email-alert-button-footer" value="Subscribe">
+                  <div id="esEmailInfoFooterError" style="display:none;"><span>Error messaging: <br>
+                    Field value incorrect format</span></div>
+                </form>
+              </div>
+            </div>
+          </div>
+        <div class="footer-promos-wrapper">
+       <div class="footer-promos">         
+         <div class="promo1" style="float:left;"><a href="http://catalog.usmint.gov/national-baseball-hall-of-fame-young-collectors-set-2014-uncirculated-half-dollar-B37.html"><img alt="For the Young and Young at Heart" title="For the Young and Young at Heart" class="" src="/images/shell/footer-1.jpg"></a></div>
+              
+         <div class="promo2" style="float:left;"><a href="http://catalog.usmint.gov/annual-uncirculated-dollar-coin-set-2014-XA6.html"><img alt="Capture the Entire Year in One Full Set" title="Capture the Entire Year in One Full Set" class="" src="/images/shell/footer-2.jpg"></a></div>
+              
+         <div class="promo3" style="float:right;"><a href="http://catalog.usmint.gov/theodore-roosevelt-2013-presidential-discovery-set-TR9.html"><img alt="Theodore Roosevelt 2013 Presidential Discovery Set" title="Theodore Roosevelt 2013 Presidential Discovery Set" class="" src="/images/shell/footer-3.jpg"></a></div>              
+            </div>           
+        </div>
+        <div class="footer-list">
+            <ul class="menu-footer menu pipe fir">
+              <li class="first"><a href="http://catalog.usmint.gov/"><strong>Shop</strong></a></li>
+              <li class="list-links">
+                <ul>
+                 <li><a href="http://catalog.usmint.gov/shop/featured/" title="Featured">Featured</a></li>
+                  <li><a href="http://catalog.usmint.gov/shop/coins/" title="Coins">Coins</a></li>
+                  <li><a href="http://catalog.usmint.gov/shop/coin-programs/" title="Coin Programs">Coin Programs</a></li>
+                  <li><a href="http://catalog.usmint.gov/shop/medals/" title="Medals">Medals</a></li>
+                  <li><a href="http://catalog.usmint.gov/shop/product-enrollments/" title="Product Enrollments">Product Enrollments</a></li>
+                  <li><a href="http://catalog.usmint.gov/shop/storage-and-display/" title="Storage &amp; Display">Storage &amp; Display</a></li>
+                  <li><a href="http://catalog.usmint.gov/product-schedule/" title="Product Schedule">Product Schedule</a></li>          				  
+                </ul>
+              </li>
+            </ul>
+            <ul class="menu-footer menu pipe second">
+              <li class="first"><a href="http://catalog.usmint.gov/on/demandware.store/Sites-USM-Site/default/CustomerService-Show"><strong>Customer Service</strong></a></li>
+              <li class="list-links">
+                <ul>
+                 <li><a href="https://catalog.usmint.gov/track-order" title="Track My Order">Track My Order</a></li>
+                  <li><a href="http://catalog.usmint.gov/customer-service/shipping.html" title="Shipping &amp; Returns Policy">Shipping &amp; Returns Policy</a></li>
+                  <li><a href="http://catalog.usmint.gov/customer-service/faqs/" title="FAQs">FAQs</a></li>
+                  
+                  <li><a href="https://catalog.usmint.gov/account-login" title="My Account">My Account</a></li>
+                  
+                  <li><a href="http://catalog.usmint.gov/bulk-purchase-program-landing.html" title="Bulk Programs">Bulk Programs</a></li>
+                                    
+       <li><a href="http://catalog.usmint.gov/bullion-dealer-locator" title="Bullion Dealer Locator">Bullion Dealer Locator</a></li>   
+                                  
+   <li><a href="http://catalog.usmint.gov/customer-service/contact-us.html" title="Contact Us">Contact Us</a></li>
+                   
+                   <li><a href="https://catalog.usmint.gov/gift-certificate-balance" title="E-Gift Certificate Balance">E-Gift Certificate Balance</a></li>    
+                                  
+        <li><a href="https://catalog.usmint.gov/email-signup" title="E-mail Updates">E-mail Updates</a></li>
+                    
+                </ul>
+              </li>
+            </ul>   
+            <div class="mobile-link-block">
+              <ul class="menu-footer menu pipe third">
+                <li class="first"><a href="/education/?action=learn"><strong>Learn</strong></a></li>
+                <li class="list-links">
+                  <ul>
+                    <li><a href="/mint_programs/" title="Coin &amp; Medal Programs">Coin &amp; Medal Programs</a></li>
+                    <li><a href="/collectorsClub/" title="Collecting Basics">Collecting Basics</a></li>
+                    <li><a href="/faqs/circulating_coins/index.cfm?action=coins" title="How Coins Are Made">How Coins Are Made</a></li>
+                    <li><a href="/kids/teachers/" title="For Educators">For Educators</a></li>
+                    <li><a href="/kids/" title="For Kids">For Kids</a></li>
+                    <li><a href="/education/historianscorner/" title="History">History</a></li>
+                    <li><a href="/education/sculptor_engravers/" title="Artists">Artists</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="menu-footer menu pipe fourth">
+                <li class="first"><a href="/pressroom/"><strong>Newsroom</strong></a></li>
+                <li class="list-links">
+                  <ul>
+                    <li><a href="/pressroom/" title="News Releases">News Releases</a></li>
+                    <li><a href="/pressroom/?action=legislation" title="Legislation">Legislation</a></li>
+                    <li><a href="/pressroom/?action=photo" title="Image Library">Image Library</a></li>
+                    <li><a href="/consumer/" title="Consumer Alerts">Consumer Alerts</a></li>
+                    <li><a href="/pressroom/?action=events" title="Events">Events</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="menu-footer menu pipe fifth">
+                <li class="first"><a href="/about_the_mint/"><strong>About</strong></a></li>
+                <li class="list-links">
+                  <ul>
+                    <li><a href="/mint_tours/" title="Facilities &amp; Tours">Facilities &amp; Tours</a></li>
+                    <li><a href="/about_the_mint/?action=coin_production" title="Production &amp; Sales">Production &amp; Sales</a></li>
+                    <li><a href="/about_the_mint/?action=directors_office" title="Director&#39;s Office">Director's Office</a></li>
+                    <li><a href="/about_the_mint/?action=annual_report" title="Annual Report">Annual Report</a></li>
+                    <li><a href="/about_the_mint/careers/" title="Careers">Careers</a></li>
+                    <li><a href="/about_the_mint/eeo/" title="EEO">EEO</a></li>
+                    <li><a href="/about_the_mint/mint_police/" title="Mint Police">Mint Police</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="menu-footer menu pipe last">
+                <li class="first"><a href="/about_the_mint/Policies_and_Sites/"><strong>Resources</strong></a></li>
+                <li class="list-links">
+                  <ul>
+                    <li><a href="/WebsiteInfo/" title="Our Website">Our Website</a></li>
+                    <li><a href="/foia/" title="FOIA">FOIA</a></li>
+                    <li><a href="http://www.treasury.gov/No-Fear-Act/Pages/default.aspx" target="_blank" title="No Fear Act Data">No Fear Act Data</a></li>
+                    <li><a href="http://www.treasury.gov/Pages/default.aspx" target="_blank" title="Department of the Treasury">Department of the Treasury</a></li>
+                    <li><a href="http://ccac.gov" target="_blank" title="Citizens Coinage Advisory Committee">Citizens Coinage Advisory Committee</a></li>
+                    <li><a href="http://www.USA.gov" target="_blank" title="USA.gov">USA.gov</a></li>
+                    <li><a href="http://business.usa.gov" target="_blank" title="BusinessUSA">BusinessUSA</a></li>
+                    <li><a href="http://catalog.usmint.gov/bureau-of-engraving.html" title="Bureau of Engraving and Printing">Bureau of Engraving and Printing</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+        </div>
+        <div class="footer-copyright-wrapper">
+          <div class="footer-copyright">
+              <ul>
+                <li> <a title="Privacy policy" href="/policy/#privacy">Privacy Policy</a></li>
+                <li> <a href="/policy/?action=TermsOfUse" title="Terms of Use">Terms of Use</a></li>
+				  <li> <a href="/policy/?action=Accessibility" title="Accessibility">Accessibility</a></li>
+				<li> <a href="/plugins/" title="Plug-Ins">Plug-Ins</a></li>              
+                <li> <a href="https://catalog.usmint.gov/on/demandware.store/Sites-USM-Site/default/SiteMap-Start" title="Site Map">Site Map</a></li>
+              </ul>
+              <p class="">&copy; 2014 United States Mint  All Rights Reserved.</p>
+            </div>
+        </div>      
+    </div>
+  </div> 
+	</div>
+	
+
+	<div class="clearFloats"></div>
+	<noscript>
+		<div id="message">
+			This web site uses Javascript for various enhancements.&nbsp;
+			Your web browser apparently has Javascript turned off -or- the browser is outdated and simply does not support it.&nbsp;
+			For the best experience, we suggest that the Javascript is turned on.
+		</div>
+	</noscript>
+	<div id="serverID">st-2</div>
+</body>
+</html>
+<script language="javascript">
+function searchboxFocus1() {
+	/*	If the site search textbox has a value of search when the user places focus on it, the
+		value will be cleared out.  Finally, the text font color in the textbox is verified set
+		to black (as opposed to a diminished black).												*/
+	if (document.getElementById('criteria1').value == 'Search') {
+		document.getElementById('criteria1').value			= '';
+	}
+	document.getElementById('formFocused1').value			= '1';	
+	document.getElementById('criteria1').style.color		= '#000';
+}
+
+function searchboxBlur1() {
+	/*	When the user focus departs from the site search textbox, the value and text color will
+		only be initialized if the value of the textbox is basically null (blank).					*/
+	if (document.getElementById('criteria1').value == '') {
+		document.getElementById('criteria1').value			= 'Search';
+		document.getElementById('criteria1').style.color	= '#666';
+		document.getElementById('formFocused1').value			= '0';		
+	}
+}
+
+function mainSearchSubmit1(serverName) {
+	
+	if (!document.mainSearchForm1.criteria1.value || document.mainSearchForm1.formFocused1.value == '0') {
+		alert('Your search entry contained no words; try again.');
+		return false;
+		}
+	else
+	{
+		document.mainSearchForm1.action = 'http://search.usa.gov/search?affiliate=usmint.gov&query='+document.mainSearchForm.criteria.value;
+		document.mainSearchForm1.submit();
+		return true;
+	}
+	//
+}
+
+function mainSearchSubmitBtn1(serverName) {
+
+	if (!document.mainSearchForm1.criteria1.value || !document.mainSearchForm1.formFocused1.value || document.mainSearchForm1.formFocused1.value == '0') {
+		alert('Your search entry contained no words; try again.');
+		}
+	else
+	{
+	document.mainSearchForm1.action = 'http://search.usa.gov/search?affiliate=usmint.gov&query='+document.mainSearchForm1.criteria1.value;
+	document.mainSearchForm1.submit();
+	}
+	//
+}
+
+</script>
+
+
+
+	
